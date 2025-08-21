@@ -61,7 +61,7 @@ const Footer = () => {
                   />
                 </svg>
               </Link> */}
-              <Link
+              {/* <Link
                 to="https://www.instagram.com/richonyoudcandles.perfume?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
                 className="w-9 h-9 bg-white rounded-full flex items-center justify-center ml-2 mb-2 transition-all duration-300 hover:opacity-80"
                 aria-label="Instagram"
@@ -96,7 +96,7 @@ const Footer = () => {
                     d="M19 6h5v-6h-5c-3.86 0-7 3.14-7 7v3h-4v6h4v16h6v-16h5l1-6h-6v-3c0-0.542 0.458-1 1-1z"
                   />
                 </svg>
-              </Link>
+              </Link> */}
               {/* <Link
                 to="#"
                 className="w-9 h-9 bg-white rounded-full flex items-center justify-center ml-2 mb-2 transition-all duration-300 hover:opacity-80"
